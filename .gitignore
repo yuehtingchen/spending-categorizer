@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Data files
+data/
+*.csv
+
+# Trained models
+*.pkl
+
+# Mac system files
+.DS_Store
